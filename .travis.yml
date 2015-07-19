@@ -12,7 +12,6 @@ sudo: false
 addons:
   apt:
     packages:
-      - fonts-humor-sans
       - fonts-inconsolata
       - fonts-takao-gothic
       - fonts-takao-mincho
